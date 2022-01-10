@@ -3,8 +3,8 @@
 #include <WiFi.h>
 
 
-  const char* ssid = "pa4o74";
-  const char* password = "0887057323";
+  const char* ssid = "your ssid";
+  const char* password = "your wi-fi password";
   const char* mqtt_server = "192.168.0.104";
 
   WiFiClient espClient;
